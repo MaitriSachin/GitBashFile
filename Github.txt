@@ -1,0 +1,6 @@
+un-maitrisachin
+pwd-Maitripatil@1997
+token- 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
+uri-https://github.com/MaitriSachin/Zoo-Management-System.git
+
+tokengitbash- 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
